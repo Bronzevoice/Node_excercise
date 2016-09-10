@@ -83,3 +83,13 @@
 /favicon.ico
 /pagina1
 /favicon.ico
+/pagina2.html
+/favicon.ico
+index.html
+/favicon.ico
+/pagina2.html
+/favicon.ico
+/pagina2.html
+/favicon.ico
+/pagina2.html
+/favicon.ico
